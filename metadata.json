@@ -1,0 +1,6 @@
+{
+  "name": "AI Support Platform Dashboard",
+  "description": "An administrative control panel and operational dashboard for managing multi-tenant AI customer support, training, automation, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
